@@ -2,7 +2,7 @@
 
 ---
 
-## [Oregon State Robotics Club: Underwater ROV](/sample_page)
+## [Oregon State Robotics Club: Underwater ROV](/ROV)
 <img src="images/ROV.jpg?raw=true"/>
 
 ---
