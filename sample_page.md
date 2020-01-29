@@ -1,6 +1,6 @@
 # Oregon State University Robotics Club: Underwater ROV
 
-<img src="images/ROV.jpg?raw=true"/
+<img src="images/ROV.jpg?raw=true"/>
 
 ## __Project Description__: 
 
