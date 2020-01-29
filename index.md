@@ -3,7 +3,7 @@
 ---
 
 [Oregon State Robotics Club: Underwater ROV](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ROV.jpg?raw=true"/>
 
 ---
 [Senior Project: Robotic Panel Lift System](/pdf/sample_presentation.pdf)
