@@ -1,8 +1,8 @@
-## Projects
+# Projects
 
 ---
 
-[Oregon State Robotics Club: Underwater ROV](/sample_page)
+## [Oregon State Robotics Club: Underwater ROV](/sample_page)
 <img src="images/ROV.jpg?raw=true"/>
 
 ---
