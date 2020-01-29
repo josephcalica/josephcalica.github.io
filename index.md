@@ -2,7 +2,7 @@
 
 ---
 
-## [Oregon State Robotics Club: Underwater ROV](/ROV)
+## [Oregon State Robotics Club: Underwater ROV](/OSURC)
 <img src="images/ROV.jpg?raw=true"/>
 
 ---
