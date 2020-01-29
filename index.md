@@ -1,8 +1,6 @@
-## Portfolio
+## Projects
 
 ---
-
-### Category Name 1 
 
 [Oregon State Robotics Club: Underwater ROV](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
