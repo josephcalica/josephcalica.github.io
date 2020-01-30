@@ -16,7 +16,7 @@ In addition to my responsibilities as a mechanical design speicalist some of my 
 * Water-proofing various electrical component (i.e. Servos and Wires)
 * Mentoring Junior Members upon 3D Printing, Design-For-Manufacture and SOLIDWORKS
 
-
+<img src="images/actuation.webm?raw=true"/>
 
 <img src="images/ROV_Table.JPG?raw=true"/>
 
