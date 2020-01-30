@@ -1,3 +1,5 @@
+youtubeId: Un5eFq4yd94
+
 # Oregon State University Robotics Club (OSURC): Underwater ROV
 
 <img src="images/ROV.jpg?raw=true"/>
@@ -15,6 +17,8 @@ In addition to my responsibilities as a mechanical design speicalist some of my 
 * Reverse-engineering and Fabricating Waterproof Electrical Cable Connections
 * Water-proofing various electrical component (i.e. Servos and Wires)
 * Mentoring Junior Members upon 3D Printing, Design-For-Manufacture and SOLIDWORKS
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <img src="images/ROV_Table.JPG?raw=true"/>
 
