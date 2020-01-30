@@ -19,9 +19,9 @@ In addition to my responsibilities as a mechanical design speicalist some of my 
 <!-- This is how to include an image from the github repo
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
-<img src="images/ROV_Table.jpg?raw=true"/>
+<img src="images/ROV_Table.png?raw=true"/>
 <img src="images/Claw_SeeThru.png?raw=true"/>
-<img src="images/FullAssembly.jpg?raw=true"/>
+<img src="images/Full_Assembly.jpg?raw=true"/>
 
 
 
