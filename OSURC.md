@@ -16,11 +16,10 @@ In addition to my responsibilities as a mechanical design speicalist some of my 
 * Water-proofing various electrical component (i.e. Servos and Wires)
 * Mentoring Junior Members upon 3D Printing, Design-For-Manufacture and SOLIDWORKS
 
-<!-- This is how to include an image from the github repo
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
 <img src="images/ROV_Table.jpg?raw=true"/>
+
 <img src="images/Claw_SeeThru.png?raw=true"/>
+
 <img src="images/Full_Assembly.png?raw=true"/>
 
 
