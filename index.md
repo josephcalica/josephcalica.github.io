@@ -9,8 +9,8 @@
 [![Applied Robotics: Cornhole Playing Robot](images/Everything.jpg?raw=true)](josephcalica.github.io/ROB421 "Applied Robotics: Cornhole Playing Robot")
 
 ---
-[Infrared Light Chasing Robot](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Sensors and Microcontrollers: Infrared Light Chasing Robot](/ME451)
+[![Sensors and Microcontrollers: Infrared Light Chasing Robot](images/Bot_Final.jpg?raw=true)](josephcalica.github.io/ME451 "Sensors and Microcontrollers: Infrared Light Chasing Robot")
 
 
 
