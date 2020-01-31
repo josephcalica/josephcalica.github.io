@@ -6,8 +6,8 @@
 <img src="images/ROV.jpg?raw=true"/>
 
 ---
-[Senior Project: Robotic Panel Lift System](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Oregon State Robotics Club: Underwater ROV](/ROB421)
+<img src="images/Everything.JPG?raw=true"/>
 
 ---
 [Infrared Light Chasing Robot](http://example.com/)
