@@ -3,10 +3,11 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Feel free to contact me via e-mail or LinkedIn if you feel my experience aligns with any of your open positions!
   <br><br>
-  <pre>
   <b>e-mail: josephcalica@gmail.com</b>
+  <br>
   <a href="https://www.linkedin.com/in/joseph-calica/">View My LinkedIn Profile</a>
+  <br>
   <a href="https://drive.google.com/file/d/1Tq7L06DwJ7WCb-rciL_qehC9cVuFwDsA/view?usp=sharing">View My Resume</a>
-  </pre>
+  <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
