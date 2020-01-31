@@ -35,6 +35,6 @@ In addition to my responsibilities as a mechanical design speicalist some of my 
 * DC Power Supply Unit
 * Di-electric Grease
 * Lathe
-* Milling Machine
+* 3-Axis Milling Machine
 * Heat Gun
 * Soldering Iron
