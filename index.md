@@ -2,7 +2,7 @@
 
 ---
 
-[![Oregon State Robotics Club: Underwater ROV](images/ROV.jpg?raw=true)](/OSURC "Oregon State Robotics Club: Underwater ROV")
+[![Oregon State Robotics Club: Underwater ROV](images/ROV.jpg?raw=true)](josephcalica.github.io/OSURC "Oregon State Robotics Club: Underwater ROV")
 
 ## [Oregon State Robotics Club: Underwater ROV](/OSURC)
 <img src="images/ROV.jpg?raw=true"/>
