@@ -1,15 +1,12 @@
 # Projects
 
 ---
-
-[![Oregon State Robotics Club: Underwater ROV](images/ROV.jpg?raw=true)](josephcalica.github.io/OSURC "Oregon State Robotics Club: Underwater ROV")
-
 ## [Oregon State Robotics Club: Underwater ROV](/OSURC)
-<img src="images/ROV.jpg?raw=true"/>
+[![Oregon State Robotics Club: Underwater ROV](images/ROV.jpg?raw=true)](josephcalica.github.io/OSURC "Oregon State Robotics Club: Underwater ROV")
 
 ---
 ## [Applied Robotics: Cornhole Playing Robot](/ROB421)
-<img src="images/Everything.jpg?raw=true"/>
+[![Applied Robotics: Cornhole Playing Robot](images/Everything.jpg?raw=true)](josephcalica.github.io/ROB421 "Applied Robotics: Cornhole Playing Robot")
 
 ---
 [Infrared Light Chasing Robot](http://example.com/)
