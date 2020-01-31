@@ -6,8 +6,8 @@
 <img src="images/ROV.jpg?raw=true"/>
 
 ---
-## [Oregon State Robotics Club: Underwater ROV](/ROB421)
-<img src="images/Everything.JPG?raw=true"/>
+## [Applied Robotics: Cornhole Playing Robot](/ROB421)
+<img src="images/Everything.jpg?raw=true"/>
 
 ---
 [Infrared Light Chasing Robot](http://example.com/)
