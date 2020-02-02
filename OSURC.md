@@ -8,12 +8,12 @@ The OSURC Underwater ROV team is a collaborative multi-disciplinary team that fo
 
 ## __Role & Results__:
 
-Through my +2 years as a member of the ROV team __as a Mechanical Design Specialist I designed, prototyped, developed and fabritcated the clubs first functional manipulator__ for use in an underwater environment. The maipulator was designed in __SOLIDWORKS__ with an intended use case of __underwater pick-and-place / rotary manipulation__.
+Through my +2 years as a member of the ROV team __as a Mechanical Design Specialist I designed, prototyped, developed and fabricated the clubs first functional manipulator__ for use in an underwater environment. The manipulator was designed in __SOLIDWORKS__ with an intended use case of __underwater pick-and-place / rotary manipulation__.
 
-In addition to my responsibilities as a mechanical design speicalist some of my other responsibilities / accomplishments in the team included:
+In addition to my responsibilities as a mechanical design specialist some of my other responsibilities / accomplishments in the team included:
 
 * Reverse-engineering and Fabricating Waterproof Electrical Cable Connections
-* Water-proofing various electrical component (i.e. Servos and Wires)
+* Water-proofing various electrical components (i.e. Servos and Wires)
 * Mentoring Junior Members upon 3D Printing, Design-For-Manufacture and SOLIDWORKS
 
 <img src="images/actuation.gif?raw=true"/>
