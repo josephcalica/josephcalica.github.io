@@ -38,3 +38,22 @@ In addition to my responsibilities as a mechanical design speicalist some of my 
 * 3-Axis Milling Machine
 * Heat Gun
 * Soldering Iron
+
+---
+# Other Projects
+
+---
+## [Applied Robotics: Cornhole Playing Robot](/ROB421)
+[![Applied Robotics: Cornhole Playing Robot](images/Everything.jpg?raw=true)](josephcalica.github.io/ROB421 "Applied Robotics: Cornhole Playing Robot")
+
+---
+## [Sensors and Microcontrollers: Infrared Light Chasing Robot](/ME451)
+[![Sensors and Microcontrollers: Infrared Light Chasing Robot](images/Bot_Final.jpg?raw=true)](josephcalica.github.io/ME451 "Sensors and Microcontrollers: Infrared Light Chasing Robot")
+
+---
+# Contact Me
+
+---
+### __e-mail: josephcalica@gmail.com__
+### [My LinkedIn Page](https://www.linkedin.com/in/joseph-calica/)
+
